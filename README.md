@@ -19,5 +19,6 @@ A sleek, animated, and responsive portfolio built with **Next.js**, **Tailwind C
 [Visit Portfolio](https://your-deployed-link.com)
 
 ## 📬 Contact
-Reach out via [LinkedIn](https://linkedin.com/in/yourprofile) or [Email](mailto:your@email.com)
+Reach out via [LinkedIn](https://linkedin.com/in/bhavishy03) or [Email](mailto:ih.bhavishy03@email.com)
+
 
